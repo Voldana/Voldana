@@ -21,5 +21,5 @@
 
 <p align="center">
 <a href="mailto:m.darandeh99@gmail.com"><img src="https://img.shields.io/badge/-m.darandeh99@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammaddarandeh"><img src="https://img.shields.io/badge/-Mohammad%20Darandeh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammaddarandeh"><img src="https://img.shields.io/badge/-Mo%20Darandeh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
