@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like challenging myself with difficult tasks that require creativity.\
-🎓 &nbsp;I am a game developer that enjoys working with engine physics and integrating AI's in my games.\
+🎓 &nbsp;I am a game developer that enjoys working with engine physics and shaders in my games.\
 ✍️ &nbsp;In my free time, I usually play video games and analyze them afterwards to figure out how certain mechanics are made.\
 
 
